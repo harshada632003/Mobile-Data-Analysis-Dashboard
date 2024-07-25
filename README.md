@@ -1,1 +1,1 @@
-# Mobile-Data-Analysis-Dashboard
+This project transforms raw mobile phone data  into actionable insights using Power BI and MySQL. By visualizing trends, patterns, and key metrics, we aim to understand user behavior, market dynamics, and optimize business strategies.
